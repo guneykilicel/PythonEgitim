@@ -1,0 +1,3 @@
+Güney Kılıçel:99,100,100
+İrem Ocak:100,99,100
+Kuzey Kılıçel:80,70,85
